@@ -160,7 +160,7 @@ Analyzed **550,068 customer transactions** from Walmart, focusing on **demograph
   - `Pandas` – data cleaning & manipulation
   - `Matplotlib` & `Seaborn` – data visualization
   - `SciPy` – statistical testing
-  - **Colab Notebook** for EDA workflow
+  - `Colab Notebook` for EDA workflow
 
 ---
 
