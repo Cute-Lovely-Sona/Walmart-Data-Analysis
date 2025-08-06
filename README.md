@@ -30,7 +30,9 @@ The dataset consists of transactional records of three Walmart branches, capturi
 
 ## 🚀 Project Overview
 
-This project analyzes Walmart's transactional sales data across its branches to extract insights into product performance, customer behavior, and operational efficiency. The case study involves cleaning, analyzing, and visualizing the data to help stakeholders make data-driven decisions.
+This project analyzes Walmart's transactional sales data across its branches to extract insights into product performance, customer behavior, and operational efficiency. The case study involves cleaning, analyzing, and visualizing the data to help stakeholders make data-driven decisions. 
+## 📊 Key Insights
+Analyzed **550,068 customer transactions** from Walmart, focusing on **demographics** and **purchase behavior** across gender, age, marital status, and product categories.
 
 ---
 
@@ -88,23 +90,6 @@ This project analyzes Walmart's transactional sales data across its branches to 
 - 💳 Offer discounts on **digital payment methods** to increase usage.
 - 🕒 Schedule promotions around **evenings and weekends**.
 - 📊 Use product-specific insights to **adjust inventory per branch**.
-
----
-
-## 🛠 Tools & Technologies Used
-
-- **Python**
-- **Pandas**, **NumPy** – data cleaning and manipulation
-- **Matplotlib**, **Seaborn** – data visualization
-- **Jupyter Notebook**
-- *(Optional)* Tableau/Power BI – dashboard (if added later)
-
----
-
-## 📊 Key Insights
-
-### 📁 Dataset Overview
-Analyzed **550,068 customer transactions** from Walmart, focusing on **demographics** and **purchase behavior** across gender, age, marital status, and product categories.
 
 ---
 
@@ -175,7 +160,7 @@ Analyzed **550,068 customer transactions** from Walmart, focusing on **demograph
   - `Pandas` – data cleaning & manipulation
   - `Matplotlib` & `Seaborn` – data visualization
   - `SciPy` – statistical testing
-- **Jupyter Notebook** for EDA workflow
+- **Colab Notebook** for EDA workflow
 
 ---
 
