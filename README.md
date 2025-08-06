@@ -101,6 +101,84 @@ This project analyzes Walmart's transactional sales data across its branches to 
 
 ---
 
+## 📊 Key Insights
+
+### 📁 Dataset Overview
+Analyzed **550,068 customer transactions** from Walmart, focusing on **demographics** and **purchase behavior** across gender, age, marital status, and product categories.
+
+---
+
+### 📌 Key Metrics
+
+- **Spending Patterns** analyzed by:
+  - Gender
+  - Age Groups
+  - Marital Status
+  - Product Categories
+
+---
+
+### 👨‍👩‍👧 Gender-Based Insights
+
+- 🧑‍🤝‍🧑 **75%** of customers were **male**
+- 🧔 Males **spent more** than females overall
+- 📉 Female spending was **~20% lower** than male spending
+
+---
+
+### 🎯 Age Group Insights
+
+- 🧑 **26–35 age group** accounted for **~40%** of all purchases (📈 highest share)
+- 🧓 **36–45 age group** followed with **~20%**
+  
+> ✅ *Young adults are Walmart's most active customer base.*
+
+---
+
+### 📦 Product Category Preferences
+
+- 📌 **Category 5** was the most purchased
+- Followed by **Category 1** and **Category 8**
+
+> ✅ *Optimize inventory and marketing around top categories.*
+
+---
+
+### 📊 Statistical Insights
+
+- 💍 **Married customers** spent **8.8% less** than unmarried customers
+- 📉 Spending by marital status shows significant behavior differences
+
+---
+
+### 📏 Confidence Intervals
+
+- 🧔 Male Spending: **₹895,617 to ₹955,070**
+- 👩 Female Spending: **₹673,254 to ₹750,794**
+
+> ✅ *Statistically significant difference in average spending by gender.*
+
+---
+
+### 📈 Actionable Business Insights
+
+- 🎯 Focus marketing efforts on **26–35 age group**
+- 🛍 Promote **top product categories (5, 1, 8)** through seasonal campaigns
+- 👫 Adjust offers for **married vs unmarried segments**
+- 🧠 Explore gender-based personalization in ad targeting
+
+---
+
+### 🛠 Tech Stack Used
+
+- **Python**:
+  - `Pandas` – data cleaning & manipulation
+  - `Matplotlib` & `Seaborn` – data visualization
+  - `SciPy` – statistical testing
+- **Jupyter Notebook** for EDA workflow
+
+---
+
 ## 📸 Sample Visualizations
 
 ```markdown
