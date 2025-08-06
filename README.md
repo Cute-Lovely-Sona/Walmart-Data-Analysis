@@ -31,7 +31,7 @@ The dataset consists of transactional records of three Walmart branches, capturi
 ## 🚀 Project Overview
 
 This project analyzes Walmart's transactional sales data across its branches to extract insights into product performance, customer behavior, and operational efficiency. The case study involves cleaning, analyzing, and visualizing the data to help stakeholders make data-driven decisions. 
-## 📊 Key Insights
+
 Analyzed **550,068 customer transactions** from Walmart, focusing on **demographics** and **purchase behavior** across gender, age, marital status, and product categories.
 
 ---
