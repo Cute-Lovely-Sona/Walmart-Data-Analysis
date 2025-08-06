@@ -1,6 +1,6 @@
 # 🛒 Walmart Case Study – Sales & Customer Insights
 
-📄 [Download Full Report (PDF)](./Walmart_Case_Study.pdf)  
+📄 [Download Full Report (PDF)](https://drive.google.com/file/d/1vW_fF0CVlI5rf4UBvqD3ZvPVBrggSaeK/view?usp=sharing)  
 📊 Data Analysis | 🎯 Business Insights | 📌 EDA + Strategy
 
 ---
