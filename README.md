@@ -166,10 +166,10 @@ Analyzed **550,068 customer transactions** from Walmart, focusing on **demograph
 
 ## 📸 Sample Visualizations
 
-```markdown
-![📊 Average Spending by Marital Status with 95% Confidence Intervals]([images/revenue_by_branch.png](https://drive.google.com/file/d/1Q2HjGmerQVKMHrnLsRA4XkIoW85IqS9y/view?usp=sharing)  
-![📦 Outlier Removal in Product Category Data (Before & After Clipping)]([images/top_product_lines.png](https://drive.google.com/file/d/1mTg2jNpnrppUCbeGD0olW-d0c2sWOzFE/view?usp=sharing)  
-![📈 KDE Plot of Total Purchase Amount by Marital Status]([images/customer_ratings.png)](https://drive.google.com/file/d/14jwxtUuaioXhZeMugizh8pk9ySvaySab/view?usp=sharing)  
-![🔍 Confidence Interval Comparison by Gender and Sample Size]([images/sales_by_time.png)](https://drive.google.com/file/d/1Ht2ecYNo9g3-blFZuXj2fDMY85Djlr9P/view?usp=sharing)
-![🧑‍🤝‍🧑 Spending Distribution by Gender Across Age Groups](https://drive.google.com/file/d/100qBREDYoCdZYPa-C7N1mMfrxFuqaDRI/view?usp=sharing
-![📊 Total Purchase Amount by Age Group and Marital Status]([images/sales_by_time.png)](https://drive.google.com/file/d/1Q2HjGmerQVKMHrnLsRA4XkIoW85IqS9y/view?usp=sharing)
+![Avg Spending by Marital Status](https://drive.google.com/uc?export=view&id=1Q2HjGmerQVKMHrnLsRA4XkIoW85IqS9y)
+![Outlier Removal – Product Category](https://drive.google.com/uc?export=view&id=1mTg2jNpnrppUCbeGD0olW-d0c2sWOzFE)
+![KDE – Purchase by Marital Status](https://drive.google.com/uc?export=view&id=14jwxtUuaioXhZeMugizh8pk9ySvaySab)
+![CI Comparison – Gender Sample Size](https://drive.google.com/uc?export=view&id=1Ht2ecYNo9g3-blFZuXj2fDMY85Djlr9P)
+![Spending by Age & Gender](https://drive.google.com/uc?export=view&id=100qBREDYoCdZYPa-C7N1mMfrxFuqaDRI)
+![Total Purchase – Age & Marital Status](https://drive.google.com/uc?export=view&id=1Q2HjGmerQVKMHrnLsRA4XkIoW85IqS9y)
+
